@@ -1,0 +1,13 @@
+p {
+	color: crimson;
+	background-color: floralwhite;
+	font-size: medium;
+	text-align: center;
+}
+.header_style {
+	color: tomato;
+	background-color: lightgray;
+	font-size: xx-large;
+	text-shadow: 2px 2px #FF0000;
+	text align: left;
+}
